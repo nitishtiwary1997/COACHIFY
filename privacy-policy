@@ -1,0 +1,292 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coachify - Privacy Policy</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.7;
+            color: #333;
+            background: #f7f8fa;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 15px rgba(0, 0, 0, 0.06);
+        }
+
+        h1 {
+            color: #172554;
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+
+        h2 {
+            color: #1e40af;
+            font-size: 20px;
+            margin-top: 30px;
+            margin-bottom: 12px;
+        }
+
+        p {
+            margin: 12px 0;
+        }
+
+        ul {
+            padding-left: 25px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .last-updated {
+            color: #777;
+            font-size: 14px;
+            margin-bottom: 25px;
+        }
+
+        .contact {
+            background: #f1f5f9;
+            padding: 18px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 22px;
+                margin: 10px auto;
+            }
+
+            h1 {
+                font-size: 26px;
+            }
+
+            h2 {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Coachify Privacy Policy</h1>
+
+    <p class="last-updated">
+        <strong>Last updated:</strong> 12 November 2026
+    </p>
+
+    <p>
+        This policy explains how Coachify ("we", "us") collects,
+        uses and protects information in the Coachify mobile app
+        ("the App"). Coachify helps coaching institutes manage
+        students, batches, fees, exams, homework and reports.
+    </p>
+
+    <h2>1. Who controls the data</h2>
+
+    <p>
+        Each coaching institute that registers on Coachify controls
+        the data of its own students and staff. We process that data
+        on the institute's behalf to provide the App. If you are a
+        student or parent, contact your institute about your data.
+        You may also contact us.
+    </p>
+
+    <h2>2. Information we collect</h2>
+
+    <ul>
+        <li>
+            <strong>Account information:</strong>
+            name, email address and password (stored securely by
+            Firebase Authentication).
+        </li>
+
+        <li>
+            <strong>Institute information:</strong>
+            institute name, address and contact details entered at
+            registration.
+        </li>
+
+        <li>
+            <strong>Student and staff records:</strong>
+            name, phone numbers, father's name, date of birth,
+            gender, photo, courses, batches, admission date,
+            exam marks and homework.
+        </li>
+
+        <li>
+            <strong>Fee records:</strong>
+            fee amounts, discounts, dues, payments received and
+            receipts. The App does not process card or bank payments
+            and does not store card numbers.
+        </li>
+
+        <li>
+            <strong>Files:</strong>
+            files uploaded as study material or photos.
+        </li>
+
+        <li>
+            <strong>Device and usage data:</strong>
+            crash reports, diagnostics, app interaction analytics,
+            push-notification tokens and app-integrity tokens.
+        </li>
+    </ul>
+
+    <h2>3. How we use information</h2>
+
+    <ul>
+        <li>
+            To provide the App's features, such as student
+            management, fee collection, receipts, reports and
+            notifications.
+        </li>
+
+        <li>
+            To secure accounts, prevent fraud and abuse, and keep
+            each institute's data separate.
+        </li>
+
+        <li>
+            To fix crashes and improve the App.
+        </li>
+    </ul>
+
+    <p>
+        We do <strong>not</strong> sell personal data, and we do
+        not show advertisements.
+    </p>
+
+    <h2>4. Service providers</h2>
+
+    <p>
+        We use Google Firebase (Authentication, Cloud Firestore,
+        Cloud Storage, Cloud Functions, Cloud Messaging,
+        Crashlytics, Analytics and App Check), provided by
+        Google LLC, to host and run the App.
+    </p>
+
+    <p>
+        Data is stored on Google Cloud servers, primarily in India
+        (asia-south1).
+    </p>
+
+    <p>
+        See Google's privacy policy:
+        <a href="https://policies.google.com/privacy"
+           target="_blank"
+           rel="noopener noreferrer">
+            Google Privacy Policy
+        </a>
+    </p>
+
+    <h2>5. Data security</h2>
+
+    <p>
+        All data is encrypted in transit (HTTPS/TLS) and at rest
+        by Google Cloud. Access is restricted by role. Each
+        institute can access only its own data.
+    </p>
+
+    <h2>6. Data retention and account deletion</h2>
+
+    <p>
+        We keep data while the institute's account is active.
+        You can request deletion of your account and its data:
+    </p>
+
+    <ul>
+        <li>
+            <strong>In the App:</strong>
+            More → tap your name at the top → Delete my account
+            (you will be asked for your password).
+        </li>
+
+        <li>
+            <strong>By email:</strong>
+            Send a request to
+            <a href="mailto:info.nitish1997@gmail.com">
+                info.nitish1997@gmail.com
+            </a>
+            from your registered email address.
+        </li>
+    </ul>
+
+    <p>
+        We delete the data within 30 days, except records we
+        must keep by law.
+    </p>
+
+    <h2>7. Children</h2>
+
+    <p>
+        The App is intended for coaching institutes and their staff.
+        Student records, including records of minors, are entered
+        and managed by the institute, which is responsible for
+        obtaining any required consent from parents or guardians.
+    </p>
+
+    <h2>8. Your rights</h2>
+
+    <p>
+        You can ask to access, correct or delete your personal
+        data by contacting us. We handle requests under applicable
+        law, including India's Digital Personal Data Protection
+        Act, 2023.
+    </p>
+
+    <h2>9. Changes</h2>
+
+    <p>
+        We may update this policy. We will post changes on this
+        page and update the date above.
+    </p>
+
+    <h2>10. Contact</h2>
+
+    <div class="contact">
+        <p><strong>Coachify</strong></p>
+
+        <p>
+            <strong>Email:</strong>
+            <a href="mailto:info.nitish1997@gmail.com">
+                info.nitish1997@gmail.com
+            </a>
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
